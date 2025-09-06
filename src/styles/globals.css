@@ -260,6 +260,24 @@ html {
   }
 }
 
+@keyframes heartbeat {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
+
+@keyframes logoGlow {
+  0%, 100% {
+    filter: drop-shadow(0 0 5px rgba(233, 75, 97, 0.3));
+  }
+  50% {
+    filter: drop-shadow(0 0 15px rgba(233, 75, 97, 0.6));
+  }
+}
+
 .animate-fade-in-up {
   animation: fadeInUp 0.8s ease-out forwards;
 }
@@ -280,6 +298,14 @@ html {
   background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
   background-size: 200% 100%;
   animation: shimmer 2s infinite;
+}
+
+.animate-heartbeat {
+  animation: heartbeat 1.5s ease-in-out infinite;
+}
+
+.animate-logo-glow {
+  animation: logoGlow 2s ease-in-out infinite;
 }
 
 .animate-delay-200 {

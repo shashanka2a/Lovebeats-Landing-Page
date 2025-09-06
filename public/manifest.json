@@ -1,0 +1,26 @@
+{
+  "name": "LoveBeats - Find Your Perfect Match Through Music & Movies",
+  "short_name": "LoveBeats",
+  "description": "Connect with fellow students through shared music and movie preferences. Sonic-speed matching for meaningful relationships.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E94B61",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "entertainment", "lifestyle"],
+  "lang": "en-US"
+}
