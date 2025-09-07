@@ -1,4 +1,4 @@
-# LoveBeats Landing Page
+# LoveBytes Landing Page
 
 A production-ready Next.js 14 application for LoveBeats - a dating platform that connects people through shared entertainment preferences.
 

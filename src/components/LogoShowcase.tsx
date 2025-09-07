@@ -12,7 +12,7 @@ export function LogoShowcase() {
   return (
     <div className="p-8 space-y-12 bg-gradient-to-br from-white to-gray-50">
       <div className="text-center">
-        <h1 className="text-3xl font-bold text-[#333333] mb-2">LoveBeats Logo Showcase</h1>
+        <h1 className="text-3xl font-bold text-[#333333] mb-2">LoveBytes Logo Showcase</h1>
         <p className="text-gray-600">All variants and sizes of the LoveBeats logo</p>
       </div>
 

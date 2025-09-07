@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>LoveBeats - Student Dating App | Find Your Campus Crush Through Movies & Music</title>
+        <title>LoveBytes - Student Dating App | Find Your Campus Crush Through Movies & Music</title>
         <meta name="description" content="The dating app built for students. Connect with verified classmates through shared entertainment preferences. Secure .edu verification, Sonic-speed matching, and campus events." />
         <meta name="keywords" content="student dating app, college dating, campus dating, .edu verification, music matching, movie preferences, university dating" />
       </Head>
